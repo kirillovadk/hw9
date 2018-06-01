@@ -1,5 +1,5 @@
 # hw9
-#Все операции я проводила в Notepad++
+Все операции я проводила в Notepad++
 
 
 Итоговый текст - https://github.com/kirillovadk/hw9/blob/master/result.txt
