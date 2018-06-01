@@ -1,5 +1,6 @@
 # hw9
 Все операции я проводила в Notepad++
+Итоговый текст - https://github.com/kirillovadk/hw9/blob/master/result.txt
 ## Задание 1. Удаление пустых строк.
 Я использовала регулярное выражение \n\r и заменила на \0, таким образом, удалила все пустые строки.
 ![](https://github.com/kirillovadk/hw9/blob/master/%D1%86%D0%B31.jpg)
